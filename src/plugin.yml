@@ -1,0 +1,10 @@
+name: Parkour
+version: 1.0
+description: Parkour Plugin
+main: me.jet315.timedparkourrkour.Core
+softdepend: [Multiverse-Core,ActionBarAPI,HolographicDisplays,ProtocolLib,FeatherBoard]
+commands:
+  pk:
+    description: The base command for the Parkour plugin
+  stats:
+    description: Base command for viewing stats
